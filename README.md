@@ -1,6 +1,7 @@
 # DDOS ATTACK V1👨‍💻
 # VERSI 1.0
 # DILARANG RECODE TANPA IZIN 
+# MAAF NAMA SCRIPT NYA ADA YANG TYPO KARENA SALAH KETIK YANG ASLINYA DDOS-ATTACKV1 JADI DDOS-ATTACKV1- ADA GARIS TENGAHNYA JADI JANGAN SALAH KETIK YA🙏
 
 Cara Penggunaan:
 
@@ -9,10 +10,10 @@ $pkg install python2
 $pkg install git
 
 
-$git clone https://github.com/BagusXyz/DDOS-ATTACKV1
+$git clone https://github.com/BagusXyz/DDOS-ATTACKV1-
 
 
-$cd DDOS-ATTACKV1
+$cd DDOS-ATTACKV1-
 
 
 $python2 DDOS.py <ip> <port> <packet>

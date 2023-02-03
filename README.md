@@ -8,6 +8,8 @@ $python2 DDOS.py <ip> <port> <packet>
 Contoh:$python2 DDOS.py 123.45.678.99 8080 100
 IP target: 123.45.678.99
 Port: 8080
+
+
 Packet: 100
 	
 	
